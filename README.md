@@ -2,10 +2,10 @@
 This is the basic repository created as part of Homework 2b of CSC 510. 
 
 **Group member details:**
- Prithvish Doshi 
- Seeya Prabhumoni
- Alex Chao
- Chao Ting Hung 
+ Prithvish Doshi,
+ Seeya Prabhumoni,
+ Alex Chao,
+ Chao Ting Hung, 
  Vraj 
 
 **Project Details**
