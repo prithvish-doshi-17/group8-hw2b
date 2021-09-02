@@ -1,2 +1,2 @@
 # group8-hw2b
-Basic repository for HW 2b of CSC 510
+This is the basic repository created as part of Homework 2b of CSC 510. 
