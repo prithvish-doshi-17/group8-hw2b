@@ -12,4 +12,7 @@ This is the basic repository created as part of Homework 2b of CSC 510.
 The project is set up using MIT license 
 This includes a python code __init__.py that generates Fibonnaci Series upon taking the input.
 
+[![DOI](https://zenodo.org/badge/401065006.svg)](https://zenodo.org/badge/latestdoi/401065006)
+
+
 
